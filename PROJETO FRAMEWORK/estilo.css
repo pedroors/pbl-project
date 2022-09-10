@@ -1,0 +1,53 @@
+body {
+    font-family:  'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center; 
+    width: 650px;
+    border: 2px solid rgb(219, 219, 219);
+    text-align: center;
+}
+
+
+.imagem {
+    width: 500px;
+    height: 250px;
+    margin: 20px;
+    align-items: flex-end;
+    /* border: 2px solid rgb(171, 169, 171); */
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(156, 154, 154);
+}
+
+.button-success {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+.botao {
+    border-radius: 5px;
+    box-shadow: 3px 2px rgb(156, 154, 154);
+    height: 20px;
+    width: 50;
+}
+
+.flex-container{
+    display:block;
+    margin: 10px;
+}
+
+.checked {
+    color: orange;
+}
+
+
+
+
+
